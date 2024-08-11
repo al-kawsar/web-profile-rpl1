@@ -79,11 +79,11 @@ body {
 	position: relative;
 	width: 100%;
 	height: auto;
-	/* background: radial-gradient(circle,
+	background: radial-gradient(circle,
 			rgba(0, 142, 218, 0.621) 0%,
 			rgba(65, 202, 226, 0.697) 100%),
-		url("/Gallery/1.jpg"); */
-	background: url("/Gallery/1.jpg");
+		url("/Gallery/1.jpg");
+	/* background: url("/Gallery/1.jpg"); */
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: top;
