@@ -10,7 +10,7 @@ import {
 } from "react-router-dom";
 import Footer from "./Pages/Footer";
 import Navbar from "./components/Navbar";
-import Beranda from "./pages/Beranda";
+import Beranda from "./Pages/Beranda";
 import Profil from "./Pages/Profil";
 import Struktur from "./Pages/Struktur";
 import Akademik from "./Pages/Akademik";
