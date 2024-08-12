@@ -1,15 +1,13 @@
-import React, { useEffect } from "react"
+import React from "react"
 import PropTypes from "prop-types"
 import SwipeableViews from "react-swipeable-views"
 import { useTheme } from "@mui/material/styles"
 import AppBar from "@mui/material/AppBar"
 import Tabs from "@mui/material/Tabs"
 import Tab from "@mui/material/Tab"
-import Typography from "@mui/material/Typography"
 import Box from "@mui/material/Box"
 import StrukturKelas from "./StrukturKelas"
 import Schedule from "./Schedule"
-import AOS from "aos"
 import "aos/dist/aos.css"
 
 // Fungsi TabPanel adalah komponen React yang digunakan untuk menampilkan konten tab.
@@ -66,9 +64,7 @@ export default function FullWidthTabs() {
 		<div className="md:px-[10%]  md:mt-5 mt-8" id="Tabs" data-aos="fade-up" data-aos-duration="800" >
 			<div
 				className="font-medium text-[1.6rem] md:text-[1.8rem] relative md:top-[44.8px] top-[43.2px] text-center text-white"
-				id="Glow">
-				&
-			</div>
+				id="Glow">&</div>
 			<Box sx={{ width: "100%" }}>
 				<AppBar
 					position="static"
@@ -90,10 +86,10 @@ export default function FullWidthTabs() {
 								borderBottom: "2px solid white", 
 							},
 						}}
-						className="font-medium text-white text-2xl text-center mt-16"
+						className="font-medium text-white text-2xl text-center mt-16 pr-3"
 						id="Glow">
 						<Tab
-							label="Structure"
+							label="Struktur"
 							{...a11yProps(0)}
 							sx={{
 								fontWeight: "medium",
@@ -110,7 +106,7 @@ export default function FullWidthTabs() {
 						/>
 
 						<Tab
-							label="Schedule"
+							label="Jadwal"
 							{...a11yProps(1)}
 							sx={{
 								fontWeight: "medium",
