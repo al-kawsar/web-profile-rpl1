@@ -1,5 +1,3 @@
-// import Rating from "../components/Rating"
-
 const Footer = () => {
 	return (
 		<footer className="" id="Footer">
@@ -8,7 +6,7 @@ const Footer = () => {
 					<div className="mb-6 md:mb-0">
 						<a href="#" className="flex items-center">
 							<img
-								src="/AnonimUser.png"
+								src="/icons/AnonimUser.png"
 								alt=""
 								className="h-[4.5rem] w-[4.5rem] right-2 relative rounded-full brightness-200"
 							/>
