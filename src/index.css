@@ -80,12 +80,11 @@ body {
 	width: 100%;
 	height: auto;
 	background: radial-gradient(circle,
-			rgba(0, 142, 218, 0.621) 0%,
-			rgba(65, 202, 226, 0.697) 100%),
+			rgba(6, 71, 237, 0.852) 0%,
+			rgba(8, 135, 157, 0.681) 100%),
 		url("/Gallery/1.jpg");
-	/* background: url("/Gallery/1.jpg"); */
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size: cover;
 	background-position: top;
 	z-index: 10;
 }
@@ -145,7 +144,7 @@ body {
 }
 
 #BoxClassIg {
-	padding: 10%;
+	padding: 5%;
 	height: auto;
 	width: 100%;
 	margin-top: 5%;
