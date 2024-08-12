@@ -50,11 +50,6 @@ const Schedule = () => {
 
   // Menampilkan nama-nama piket sesuai dengan hari saat ini
   const currentPiketNames = piketGroup[new Date().getDay() - 1];
-
-  console.log("Current Day:", currentDay);
-  console.log("Piket Group:", piketGroup);
-  console.log("Current Piket Names:", currentPiketNames);
-
   return (
     <>
       {/* Jadwal Mapel */}
