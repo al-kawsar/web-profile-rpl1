@@ -21,25 +21,25 @@ const StrukturKelas = () => {
 				<BorderStruktur Jabatan="Wali Kelas" Nama="Andi Tenri S.Pd" Width="150px" />
 			</div>
 			<div className="flex flex-col justify-center items-center">
-				<img src="LineVertikal.svg" alt="" data-aos="fade-up" data-aos-duration="550" />
+				<img src="/icons/LineVertikal.svg" alt="" data-aos="fade-up" data-aos-duration="550" />
 
 				<div className="lg:flex">
 					<img
-						src="LineHorizontal.svg"
+						src="/icons/LineHorizontal.svg"
 						alt=""
 						className="relative top-[-1rem]"
 						data-aos="fade-up"
 						data-aos-duration="600"
 					/>
 					<img
-						src="LineHorizontal.svg"
+						src="/icons/LineHorizontal.svg"
 						alt=""
 						className="relative top-[-1rem] hidden lg:flex"
 						data-aos="fade-up"
 						data-aos-duration="600"
 					/>
 					<img
-						src="LineHorizontal.svg"
+						src="/icons/LineHorizontal.svg"
 						alt=""
 						className="relative top-[-1rem] hidden lg:flex lg:w-[4.2rem]"
 						data-aos="fade-up"
@@ -51,16 +51,16 @@ const StrukturKelas = () => {
 					className="flex gap-[10.6rem] lg:gap-[27.4rem] relative top-[-1.93rem]"
 					data-aos="fade-up"
 					data-aos-duration="800">
-					<img src="LineKananKiri.svg" alt="" />
-					<img src="LineKananKiri.svg" alt="" />
+					<img src="/icons/LineKananKiri.svg" alt="" />
+					<img src="/icons/LineKananKiri.svg" alt="" />
 				</div>
 
 				<div
 					className="flex gap-[10.6rem] lg:gap-[27.4rem] relative top-[-3rem]"
 					data-aos="fade-up"
 					data-aos-duration="1000">
-					<img src="Circle.svg" alt="" />
-					<img src="Circle.svg" alt="" />
+					<img src="/icons/Circle.svg" alt="" />
+					<img src="/icons/Circle.svg" alt="" />
 				</div>
 
 				{/* wakil dan ketua */}
@@ -68,23 +68,23 @@ const StrukturKelas = () => {
 					<div className="relative left-[0.2rem]">
 						<BorderStruktur Jabatan="Ketua Kelas" Nama="Adel" Width="120px" />
 					</div>
-					<img src="LineHorizontalPendek.svg" className="relative top-3" />
-					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
-					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
-					<img src="LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
+					<img src="/icons/LineHorizontalPendek.svg" className="relative top-3" />
+					<img src="/icons/LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
+					<img src="/icons/LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
+					<img src="/icons/LineHorizontalPendek.svg" className="relative top-3 hidden lg:flex" />
 					<div className="relative right-[0.2rem]">
 						<BorderStruktur Jabatan="Wakil Ketua" Nama="Rayhan Juli" Width="120px" />
 					</div>
 				</div>
 
 				<div data-aos="fade-up" data-aos-duration="120" className="">
-					<img src="LineVertikal2.svg" alt="" className="relative top-[-3.8rem]" />
+					<img src="/icons/LineVertikal2.svg" alt="" className="relative top-[-3.8rem]" />
 				</div>
 
 				{/* Seketaris dan bendahara */}
 				<div className="lg:flex">
 					<img
-						src="LineHorizontal.svg"
+						src="/icons/LineHorizontal.svg"
 						alt=""
 						className="relative top-[-5.5rem]"
 						data-aos="fade-up"
@@ -92,7 +92,7 @@ const StrukturKelas = () => {
 					/>
 
 					<img
-						src="LineHorizontal.svg"
+						src="/icons/LineHorizontal.svg"
 						alt=""
 						className="relative top-[-5.5rem] hidden lg:flex"
 						data-aos="fade-up"
@@ -100,7 +100,7 @@ const StrukturKelas = () => {
 					/>
 
 					<img
-						src="LineHorizontal.svg"
+						src="/icons/LineHorizontal.svg"
 						alt=""
 						className="relative top-[-5.5rem] hidden lg:flex lg:w-[4.2rem]"
 						data-aos="fade-up"
@@ -112,15 +112,15 @@ const StrukturKelas = () => {
 					className="flex gap-[10.6rem] relative top-[-6.45rem] lg:gap-[27.4rem]"
 					data-aos="fade-up"
 					data-aos-duration="800">
-					<img src="LineKananKiri.svg" alt="" />
-					<img src="LineKananKiri.svg" alt="" />
+					<img src="/icons/LineKananKiri.svg" alt="" />
+					<img src="/icons/LineKananKiri.svg" alt="" />
 				</div>
 				<div
 					className="flex gap-[10.6rem] relative top-[-7.2rem] lg:gap-[27.4rem]"
 					data-aos="fade-up"
 					data-aos-duration="1000">
-					<img src="Circle.svg" alt="" />
-					<img src="Circle.svg" alt="" />
+					<img src="/icons/Circle.svg" alt="" />
+					<img src="/icons/Circle.svg" alt="" />
 				</div>
 
 				<div
@@ -137,34 +137,34 @@ const StrukturKelas = () => {
 				</div>
 
 				<div className="relative top-[-15rem]" data-aos="fade-up" data-aos-duration="900">
-					<img src="LineVertikal3.svg" alt="" />
+					<img src="/icons/LineVertikal3.svg" alt="" />
 				</div>
 
 				{/* Keamanan dan Kebersihan */}
 				<div className="lg:flex">
 					<img
-						src="LineHorizontal.svg"
+						src="/icons/LineHorizontal.svg"
 						alt=""
 						className="relative top-[-16.5rem]"
 						data-aos="fade-up"
 						data-aos-duration="600"
 					/>
 					<img
-						src="LineHorizontal.svg"
+						src="/icons/LineHorizontal.svg"
 						alt=""
 						className="relative top-[-16.5rem] hidden lg:flex"
 						data-aos="fade-up"
 						data-aos-duration="600"
 					/>
 					<img
-						src="LineHorizontal.svg"
+						src="/icons/LineHorizontal.svg"
 						alt=""
 						className="relative top-[-16.5rem] hidden lg:flex"
 						data-aos="fade-up"
 						data-aos-duration="600"
 					/>
 					<img
-						src="LineHorizontal.svg"
+						src="/icons/LineHorizontal.svg"
 						alt=""
 						className="relative top-[-16.5rem] hidden lg:flex"
 						data-aos="fade-up"
@@ -176,17 +176,17 @@ const StrukturKelas = () => {
 					className="flex gap-[10.6rem] lg:gap-[23.1rem] relative top-[-17.44rem]"
 					data-aos="fade-up"
 					data-aos-duration="800">
-					<img src="LineKananKiri.svg" alt="" />
-					<img src="LineKananKiri.svg" alt="" />
-					<img src="LineKananKiri.svg" alt="" className="hidden lg:flex" />
+					<img src="/icons/LineKananKiri.svg" alt="" />
+					<img src="/icons/LineKananKiri.svg" alt="" />
+					<img src="/icons/LineKananKiri.svg" alt="" className="hidden lg:flex" />
 				</div>
 				<div
 					className="flex gap-[10.6rem] relative top-[-18.3rem] lg:gap-[23.1rem]"
 					data-aos="fade-up"
 					data-aos-duration="1000">
-					<img src="Circle.svg" alt="" />
-					<img src="Circle.svg" alt="" />
-					<img src="Circle.svg" alt="" className="hidden lg:flex" />
+					<img src="/icons/Circle.svg" alt="" />
+					<img src="/icons/Circle.svg" alt="" />
+					<img src="/icons/Circle.svg" alt="" className="hidden lg:flex" />
 				</div>
 
 				<div
