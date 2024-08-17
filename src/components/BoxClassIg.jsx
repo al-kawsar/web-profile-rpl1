@@ -4,6 +4,7 @@ const BoxClassIg = () => {
       <a
         href="https://www.instagram.com/_algoritma22"
         className="flex flex-col gap-4"
+        target="_blank"
       >
         <div className="flex justify-between relative ">
           <img src="/icons/Instagram.svg" alt="" className="w-auto h-10" />
