@@ -132,7 +132,7 @@ const StrukturKelas = () => {
 					</div>
 
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Bendahara" Nama="-" Width="120px" />
+						<BorderStruktur Jabatan="Bendahara" Nama="Nayah" Width="120px" />
 					</div>
 				</div>
 
@@ -194,15 +194,15 @@ const StrukturKelas = () => {
 					data-aos="fade-up"
 					data-aos-duration="1100">
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Keamanan" Nama="-" Width="120px" />
+						<BorderStruktur Jabatan="Keamanan" Nama="Bom-Bom" Width="120px" />
 					</div>
 
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Kebersihan" Nama="-" Width="120px" />
+						<BorderStruktur Jabatan="Kebersihan" Nama="Taufiq" Width="120px" />
 					</div>
 
 					<div className="flex-col hidden lg:flex">
-						<BorderStruktur Jabatan="Kesehatan" Nama="-" Width="120px" />
+						<BorderStruktur Jabatan="Kesehatan" Nama="Fachri" Width="120px" />
 					</div>
 				</div>
 			</div>
