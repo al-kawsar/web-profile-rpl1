@@ -1,33 +1,47 @@
 # Web Kelas
-Web Kelas adalah platform yang bertujuan untuk menyediakan informasi tentang kelas kami. 
 
-Teknologi yang digunakan diantaranya: 
-- React JS: Membangun antarmuka pengguna yang responsif dan interaktif.
-- MUI: MUI (Material-UI) digunakan untuk mendesain antarmuka dengan komponen Material Design yang indah.
-- Tailwind CSS: Memastikan tampilan dan gaya yang modern dan fleksibel.
-- Slick JS: Untuk tampilan galeri yang halus dan menarik.
-- AOS: Animasi yang menarik untuk meningkatkan tampilan dan nuansa situs.
+Web Kelas adalah platform interaktif yang dirancang untuk menyediakan informasi terkini tentang kelas kami dengan tampilan modern dan fitur yang menarik.
 
-Apa yang dapat Anda temukan di web ini:
-- Gallery: Menampilkan gambar-gambar menarik yang terkait dengan kelas kami.
-- Structure And Schedule: Memberikan informasi rinci tentang struktur kelas dan jadwal yang tersedia.
+---
 
-Project ini di buat oleh :
-- Andi Muh Raihan Alkawsar
+## 🚀 Teknologi yang Digunakan
 
+Kami menggunakan teknologi terkini untuk membangun platform ini, termasuk:
 
-Kunjungi situs web kami di https://xiirpl1.vercel.app/ untuk mendapatkan informasi lebih lanjut. Terima kasih! 🙏
+- **React JS**: Framework JavaScript untuk membangun antarmuka pengguna yang responsif dan dinamis.
+- **MUI (Material-UI)**: Menyediakan komponen Material Design untuk tampilan profesional dan konsisten.
+- **Tailwind CSS**: Membantu menciptakan desain yang modern dan fleksibel dengan utilitas kelas yang kaya.
+- **Slick JS**: Digunakan untuk membuat galeri gambar dengan transisi yang halus dan menarik.
+- **AOS (Animate On Scroll)**: Memberikan animasi yang memukau untuk meningkatkan pengalaman pengguna.
 
-sekian, kurang lebihnya mohon maaf 🙏
+---
 
+## 🎯 Fitur Utama
 
+Di Web Kelas, Anda dapat menemukan:
 
+- **Gallery**: Menampilkan koleksi gambar menarik yang berkaitan dengan aktivitas kelas.
+- **Structure and Schedule**: Informasi rinci tentang struktur kelas dan jadwal kegiatan.
 
+---
 
+## 👨‍💻 Pengembang
 
+Proyek ini dikembangkan dengan dedikasi oleh:
 
+- **Andi Muh Raihan Alkawsar**
 
+---
 
+## 🌐 Kunjungi Kami
 
+Akses platform kami di: [https://xiirpl1.vercel.app/](https://xiirpl1.vercel.app/)
 
+Dapatkan informasi lebih lanjut tentang kelas kami dan nikmati pengalaman interaktif di situs ini.
+
+---
+
+## 💡 Catatan
+
+Terima kasih telah mengunjungi Web Kelas! Jika ada saran atau masukan, kami akan sangat menghargainya. 🙏
 
