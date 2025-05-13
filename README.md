@@ -1,4 +1,4 @@
-# Web Kelas
+# Web Kelas XII RPL 1
 
 Web Kelas adalah platform interaktif yang dirancang untuk menyediakan informasi terkini tentang kelas kami dengan tampilan modern dan fitur yang menarik.
 
